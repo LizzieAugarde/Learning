@@ -1,6 +1,6 @@
 ##### Stroke prediction model beginner ML project #####
 
-#06/11/2023 
+#created 06/11/2023 
 #data from Kaggle https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 #guidance from Analytics Vidhya https://www.analyticsvidhya.com/blog/2022/06/build-a-step-by-step-machine-learning-model-using-r/
 
